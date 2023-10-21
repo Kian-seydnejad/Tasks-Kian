@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Usual;
+    src: url(../media/fonts/texgyreadventor-bold.otf);
+}
+main{
+    place-items: center;
+    font-family: Usual;
+}
+
+
